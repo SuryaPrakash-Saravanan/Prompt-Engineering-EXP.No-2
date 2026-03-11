@@ -94,10 +94,12 @@ Claude Output
 Blockchain can be understood as a shared record book that is maintained by many computers across a network. Every transaction is recorded in a block, and blocks are connected sequentially to form a secure chain. This system prevents unauthorized changes and improves transparency. Although blockchain is most famous for cryptocurrencies, it is also useful in areas such as finance, supply chain monitoring, and digital identity systems.
 
 Summary Table :
-Platform	Accuracy	Coherence	Simplicity	Speed	User Experience
-ChatGPT	    5	          5	        5	        5	        5
-Gemini	    4           4	        4	        4	        4
-Claude	    5	          5	        4	        3	        4
+| Platform | Accuracy | Coherence | Simplicity | Speed | User Experience |
+| -------- | -------- | --------- | ---------- | ----- | --------------- |
+| ChatGPT  | 5        | 5         | 5          | 5     | 5               |
+| Gemini   | 4        | 4         | 4          | 4     | 4               |
+| Claude   | 5        | 5         | 4          | 3     | 4               |
+
 
 RESULT:
 The experiment compared summarization outputs from ChatGPT, Google Gemini, and Claude using different prompting techniques (Zero-shot, Few-shot, Chain-of-thought, and Role-based).
